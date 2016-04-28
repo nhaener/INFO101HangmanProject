@@ -1,2 +1,5 @@
 # INFO101HangmanProject
-Hangman Project
+
+#Description
+This hangman game is dope and uses informatics words!
+
