@@ -6,7 +6,6 @@ window.onload = function() {
   ];
 
   var categories; // Array of topics
-  var chosenW; // Selected catagory
   var getHint; // Word getHint
   var word; // Selected word
   var guess; // Geuss
