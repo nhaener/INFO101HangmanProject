@@ -190,7 +190,10 @@ window.onload = function() {
 
   hint.onclick = function() {
 
-    hints = ["Based in Mersyside", "Based in Mersyside", "First Welsh team to reach the Premier Leauge", "Owned by A russian Billionaire", "Once managed by Phil Brown", "2013 FA Cup runners up", "Gazza's first club"];
+    hints = ["When you talk to a person and they talk back", "When two people listen, speak, and respond", 
+              "The type of coversation a lecture is", "When a conversation is heard after it was spoken", 
+              "A customized conversation", "Twitter", "We are naive to think the internet is only good",
+              "Countries need phones even if it might upset the government"];
   
 
     var hintIndex = categories.indexOf(word);
